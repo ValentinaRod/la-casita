@@ -1,0 +1,41 @@
+* {
+	margin: 0;
+}
+
+
+
+
+#circle {
+	width: 100px;
+	height: 100px;
+	background: yellow;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}
+
+#rectangle {
+	width: 100%;
+	height: 100px;
+	position:absolute;
+	top: 100%;
+	background: green;
+}
+
+#rectangle1 {
+	width: 425px;  /*ancho*/
+	height: 360px; /* Altura*/
+	position:absolute;
+	top: 200px;
+	bottom: 100px 
+	right: 100px;
+	left: 450px;
+	background: #61210B;
+}
+
+
+
+
+
+
+
